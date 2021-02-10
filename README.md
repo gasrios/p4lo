@@ -16,7 +16,12 @@ Identifies the distro it is running on, compiles Python and creates a matching t
 
 builds tarballs using the following Docker images:
 
-- TODO: add images list
+- alpine:latest
+- centos:latest
+- debian:latest
+- fedora:latest
+- ubuntu:18.04
+- ubuntu:20.04
 
 ## Repository
 
